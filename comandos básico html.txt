@@ -1,0 +1,22 @@
+ELEMENTOS HTML:
+
+-TAG DE ABERTURA
+
+- TAG CONTEÚDO 
+
+-TAG FECAHMENTO
+
+---ESTRUTA BÁSICA HTML:
+
+<!DOCTYPE html>   (não é um elemento html, só diz pro navegador o que você tá escrevendo html)
+
+
+<html> ( tudo que a gente escrever está dentro desse elemento)
+
+<head> (meta informações, informação que o navegador necessita) 
+ -- ( <meta>), (<title> </title>) coloca o título na aba do navegador
+
+
+<body> onde vai estar o conteúdo do nosso código
+
+
